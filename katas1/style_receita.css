@@ -1,1 +1,39 @@
-/* FOLHA DE ESTILO DA PAGINA DE RECEITAS */
+body {
+    background-color: #383100;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #b2c3d2;
+}
+
+figcaption {
+    color: #b2c3d2;
+}
+
+figure {
+    display: inline-block;
+}
+
+section{
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+p {
+    color: white;
+    display: inline-block;
+}
+ 
+a {
+    color: #b2c3d2;
+    text-decoration: none;
+}
+
+a:hover{
+    border: 1px solid grey;
+}
